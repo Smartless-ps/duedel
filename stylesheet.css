@@ -52,7 +52,7 @@ header {
   line-height: 65px;
 }
 .top-wrapper {
-  background-image: url(Lucy.png);
+  background-image: url("Lucy.png");
   color: white;
   text-align: center;
   background-size: cover;
